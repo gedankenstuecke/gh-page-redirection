@@ -1,5 +1,7 @@
 ---
 title: "The 2018 #mozsprint"
+redirect_to:
+  - https://tzovar.as/the-2018-mozsprint/
 layout: post
 date: 2018-05-15 01:00
 tag: mozilla global sprint
