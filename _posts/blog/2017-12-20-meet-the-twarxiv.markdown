@@ -1,5 +1,7 @@
 ---
 title: "Meet the TwArχiv"
+redirect_to:
+  - https://tzovar.as/meet-the-twarxiv/
 layout: post
 date: 2017-12-20 01:00
 tag: open-humans

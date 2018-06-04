@@ -1,5 +1,7 @@
 ---
 title: "A PhD writing survival guide"
+redirect_to:
+  - https://tzovar.as/phd-survival-guide/
 layout: post
 date: 2017-10-05 01:00
 tag: phd-writing
@@ -103,4 +105,4 @@ I will have different worries than finishing my thesis writing.
 
 ### tl;dr
 Writing any thesis takes a lot of time and energy. Having a well-layed out project repository helped me a lot to structure my month-long writing process.
-Nevertheless it literally weighed me down. Being able to track and see my progress was a great motivator to pull through despite that. Oh, and make backups! 
+Nevertheless it literally weighed me down. Being able to track and see my progress was a great motivator to pull through despite that. Oh, and make backups!

@@ -1,5 +1,7 @@
 ---
 title: "Demystifying Algorithms by Doing"
+redirect_to:
+  - https://tzovar.as/demystifying-algorithms/
 layout: post
 date: 2018-04-19 01:00
 tag: open-humans

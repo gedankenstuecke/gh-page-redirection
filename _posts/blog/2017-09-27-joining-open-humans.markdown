@@ -1,5 +1,7 @@
 ---
 title: "Joining Open Humans"
+redirect_to:
+  - https://tzovar.as/joining-open-humans/
 layout: post
 date: 2017-09-27 01:00
 tag: participatory-science

@@ -1,5 +1,7 @@
 ---
 title: "Open Humans, what's next?"
+redirect_to:
+  - https://tzovar.as/open-humans-whats-next/
 layout: post
 date: 2018-02-12 01:00
 tag: open-humans

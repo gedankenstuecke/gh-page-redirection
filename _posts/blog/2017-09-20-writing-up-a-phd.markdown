@@ -1,5 +1,7 @@
 ---
 title: "Writing up a PhD: some numbers"
+redirect_to:
+  - https://tzovar.as/writing-up-a-phd/
 layout: post
 date: 2017-09-20 01:00
 tag: dataviz
@@ -20,4 +22,4 @@ Still, somehow there's a lot of time missing from these plots, which is categori
 
 [![popup](/assets/images/phdpost/category-total-and-timeseries.png)](/assets/images/phdpost/category-total-and-timeseries.png)
 
-It's fun to track the own writing progress like this and to be able to get a retrospective picture of the time put in. For the next thesis I'd totally do that again. I'll deliver some plots on how much coffee I had as soon as I can calculate those numbers. 😂 
+It's fun to track the own writing progress like this and to be able to get a retrospective picture of the time put in. For the next thesis I'd totally do that again. I'll deliver some plots on how much coffee I had as soon as I can calculate those numbers. 😂
