@@ -45,12 +45,10 @@ gems:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-paginate
+  - jekyll-redirect-from
 
 jekyll-mentions:
     base_url: https://github.com
 
 plugins:
-  - jekyll-redirect-from
-
-whitelist:
   - jekyll-redirect-from
